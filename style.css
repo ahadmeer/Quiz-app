@@ -1,0 +1,31 @@
+.form-label{
+    color: rgb(47, 84, 85);
+    font-size: x-large;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.form-control{
+    background-color: rgb(188, 246, 248);
+    border: none;
+
+}
+
+.container{
+    background-color: rgb(3, 15, 15);
+}
+
+.btn-primary{
+  background-color: rgb(47, 84, 85);
+  border: none !important;
+}
+.btn-primary:hover{
+    background-color: rgb(188, 246, 248);
+}
+
+.form-check-label{
+    color: rgb(47, 84, 85); ;
+}
+
+.form-check-input{
+    background-color: rgb(188, 246, 248);
+}
